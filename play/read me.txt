@@ -1,0 +1,1 @@
+make sure you have a maps folder when you extaract the exe,mac or linux versions
